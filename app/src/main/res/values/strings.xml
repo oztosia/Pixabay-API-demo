@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pixabay-API-demo</string>
+
+    <string name="error_internal">Server-side problem. Try again in a few minutes.</string>
+    <string name="error_bad_request">Validation error. Please check input parameters.</string>
+    <string name="error_unknown">Oops… Something went wrong.</string>
+
+    <string name="details_ask">Do you want to display a details of the image?</string>
+    <string name="confirm">YES</string>
+    <string name="reject">NO</string>
+</resources>
